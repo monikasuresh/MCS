@@ -28,11 +28,11 @@
 
 ## Installation
 
-Sed consequat lacinia malesuada. Ut et nulla semper, bibendum nunc non, gravida augue. Donec odio ante, imperdiet et ultricies non, euismod at justo. In ultricies odio non magna placerat, a interdum sem ultricies. Sed facilisis nisi nisi. Aliquam in dictum mauris. Fusce sit amet leo felis.
+Sed consequat lacinia malesuada. Ut et nulla semper, bibendum nunc non, gravida augue. Donec odio ante, imperdiet et ultricies non, euismod at justo. In ultricies odio non magna placerat, a interdum `sem ultricies`. Sed facilisis nisi nisi. Aliquam in dictum mauris. Fusce sit amet leo felis.
 
 ## Usage
 
-Aenean fringilla ligula eleifend magna imperdiet dapibus. Donec ac erat sit amet mi tempus semper. Nunc libero dui, porta id orci vitae, tristique luctus mi. In consequat enim nec turpis vestibulum blandit. Nam quis egestas ligula. Proin efficitur, elit sed fringilla vehicula, metus arcu tristique lectus, nec rhoncus nisl justo sed mauris. Vivamus ut pretium dolor. Donec eget ante vel ipsum euismod auctor nec a erat.
+Aenean fringilla ligula eleifend magna imperdiet dapibus. Donec ac erat sit amet mi tempus semper. Nunc libero dui, porta id orci vitae, tristique luctus mi. In consequat enim nec turpis vestibulum blandit. ``Nam quis egestas ligula.`` Proin efficitur, elit sed fringilla vehicula, metus arcu tristique lectus, nec rhoncus nisl justo sed mauris. Vivamus ut pretium dolor. Donec eget ante vel ipsum euismod auctor nec a erat.
 
 ## Documentation
 

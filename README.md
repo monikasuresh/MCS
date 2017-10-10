@@ -1,3 +1,5 @@
+[![Build Status](https://img.shields.io/travis/USER/REPO.svg)][http://apisrv-dashboard-prod-1100.zreem.com/pages/dashboard] 
+
 # What's new?
   * random points
   * random points

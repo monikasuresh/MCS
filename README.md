@@ -22,7 +22,7 @@
 * [Installation](https://github.com/monikasuresh/MCS/blob/master/README.md#installation)
 * [Usage](#usage)
 * [Documentation](#documentation)
-* [Services](#serivices)
+* [Services](#services)
 .
 .
 

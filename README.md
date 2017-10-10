@@ -14,9 +14,9 @@
   
 ## Table of Contents
 
-*[Installation](#installation)
-*[Usage](#usage)
-*[Documentation](#documentation)
+* [Installation](https://github.com/monikasuresh/MCS/blob/master/README.md#installation)
+* [Usage](#usage)
+* [Documentation](#documentation)
 .
 .
 

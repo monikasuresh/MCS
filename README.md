@@ -36,7 +36,7 @@ Aenean fringilla ligula eleifend magna imperdiet dapibus. Donec ac erat sit amet
 
 ## Documentation
 
-Documentation is founs in this repo's [doc..](http://apisrv-dashboard-prod-1100.zreem.com/pages/dashboard)
+Documentation is found in this repo's [doc..](http://apisrv-dashboard-prod-1100.zreem.com/pages/dashboard)
 
 ## Services
 

@@ -36,7 +36,7 @@ Aenean fringilla ligula eleifend magna imperdiet dapibus. Donec ac erat sit amet
 
 ## Documentation
 
-Vestibulum rhoncus hendrerit cursus. Aliquam leo eros, vehicula in odio vulputate, porttitor lacinia elit. Aenean id tortor et ipsum viverra facilisis eu vitae nisl. Maecenas porta nisi at venenatis eleifend. Nunc sed hendrerit odio. Nunc vestibulum augue mattis turpis vehicula, ut vestibulum urna dapibus. Quisque elementum enim tellus, et mollis mauris feugiat consectetur. Sed velit dolor, sagittis ut enim sed, lobortis finibus velit.
+Documentation is founs in this repo's [doc..](http://apisrv-dashboard-prod-1100.zreem.com/pages/dashboard)
 
 ## Services
 

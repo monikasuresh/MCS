@@ -1,7 +1,9 @@
 [![Build Status](https://img.shields.io/travis/USER/REPO.svg)](http://apisrv-dashboard-prod-1100.zreem.com/pages/dashboard)
-[[!npm Version](https://img.shields.io/npm/v/npm.svg)]
-[![Dependency Status](https://img.shields.io/versioneye/d/ruby/rails.svg)]
-[![updation Status](https://img.shields.io/github/issues/detail/last-update/badges/shields/979.svg)]
+[![npm Version](https://img.shields.io/npm/v/npm.svg)](http://apisrv-dashboard-prod-1100.zreem.com/pages/dashboard)
+[![Dependency Status](https://img.shields.io/versioneye/d/ruby/rails.svg)](http://apisrv-dashboard-prod-1100.zreem.com/pages/dashboard)
+[![updation Status](https://img.shields.io/github/issues/detail/last-update/badges/shields/979.svg)](http://apisrv-dashboard-prod-1100.zreem.com/pages/dashboard)
+[![GitHub forks](https://img.shields.io/github/forks/badges/shields.svg?style=social&label=Fork)](http://apisrv-dashboard-prod-1100.zreem.com/pages/dashboard)
+[![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Stars)](http://apisrv-dashboard-prod-1100.zreem.com/pages/dashboard)
 
 # What's new?
   * random points

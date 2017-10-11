@@ -1,6 +1,5 @@
-<p "align" = "center">
+
 # Metadata Cloud Service
-</p>
 
 [![Build Status](https://img.shields.io/travis/USER/REPO.svg)](http://apisrv-dashboard-prod-1100.zreem.com/pages/dashboard)
 [![npm Version](https://img.shields.io/npm/v/npm.svg)](http://apisrv-dashboard-prod-1100.zreem.com/pages/dashboard)
